@@ -16,7 +16,7 @@ I am an engineering student interested in digital hardware design, embedded syst
 ## 🛠️ Technical Skills
 
 - **HDL & Digital Design:** Verilog HDL, Combinational and Sequential Logic, FSMs
-- **Embedded Systems:** Microcontrollers, Embedded C, GPIO and Sensor Interfacing
+- **Embedded Systems:** Embedded C, Microcontrollers, GPIO, Sensor Interfacing (BME688), Data Acquisition, IoT System Development
 - **AI & IoT:** Sensor Data Processing, IoT System Development, AI Fundamentals
 - **Programming:** Python, MATLAB
 - **Hardware & Simulation Tools:** Xilinx Vivado, Xilinx ISE, and HDL simulators used in my projects
